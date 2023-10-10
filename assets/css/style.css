@@ -63,7 +63,7 @@ h6 {
   height: 100vh;
   display: flex;
   align-items: center;
-  margin-right: 200px;
+  margin-right: 50px;
   z-index: 997;
   overflow-y: auto;
 }
